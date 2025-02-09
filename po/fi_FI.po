@@ -138,12 +138,12 @@ msgstr "Dev."
 #: src/deviation_pi.cpp:636
 msgid "Do\n"
 "use"
-msgstr "Käytä\n"
+msgstr "\nKäytä"
 
 #: src/deviation_pi.cpp:636
 msgid "True\n"
 "Bearing"
-msgstr "Tosisuunta"
+msgstr "\n Tosisuunta"
 
 #: src/deviation_pi.cpp:636
 msgid "Var."
